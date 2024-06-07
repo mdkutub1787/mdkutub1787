@@ -23,5 +23,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkutub1787&show_icons=true&locale=en&layout=compact" alt="Md.Kutub Uddin " />
-
 &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdkutub1787&show_icons=true&locale=en" alt="Md.Kutub Uddin" /></p>
