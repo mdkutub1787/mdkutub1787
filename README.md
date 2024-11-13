@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Kutub Uddin</h1>
 <h4 align="center">Programming Lover and Learner</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtowhid98&label=Profile%20views&color=0e75b6&style=flat" alt="mdkutub1787" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkutub1787&label=Profile%20views&color=0e75b6&style=flat" alt="mdkutub1787" /> </p>
 
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
