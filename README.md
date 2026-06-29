@@ -39,6 +39,28 @@ Analytical and result-driven **Enterprise Mobile Application Developer** with **
 
 ---
 
+## 🛠️ What I work with
+
+<div align="center">
+
+  <img
+    src="https://skillicons.dev/icons?i=java,android,flutter,dart,spring,angular,ts,js,mysql,sqlite,git,github,firebase,postman&perline=10"
+    alt="Java, Android, Flutter, Dart, Spring Boot, Angular, TypeScript, JavaScript, MySQL, SQLite, Git, GitHub, Firebase, Postman"
+  />
+
+  <br />
+  <br />
+
+  <img src="https://img.shields.io/badge/RFID-Zebra%20SDK-blue?style=flat-square&logo=icloud&logoColor=white" alt="RFID" />
+  <img src="https://img.shields.io/badge/Thermal%20Printing-Bixolon-red?style=flat-square&logo=printables&logoColor=white" alt="Thermal Printing" />
+  <img src="https://img.shields.io/badge/GreenDAO%20ORM-3DDC84?style=flat-square&logo=android&logoColor=white" alt="GreenDAO" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-Dagger%202-orange?style=flat-square&logo=dagster&logoColor=white" alt="Dagger 2" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-lightgrey?style=flat-square" alt="MVVM" />
+
+</div>
+
+---
+
 ## 🏆 Featured Projects
 
 | Project | Tech Stack | Description |
@@ -47,15 +69,6 @@ Analytical and result-driven **Enterprise Mobile Application Developer** with **
 | **Platform HRM** | Flutter, REST APIs, FCM | Cross-platform HRM app with complex organizational logic. [Play Store](https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm) |
 | **Insurance Ecosystem** | Spring Boot, Angular 18 | Secure enterprise insurance system with policy lifecycle and automated billing. |
 | **Daily Finance** | Flutter, SQLite, Encryption | Financial tracker with monthly budget parsing and category analytics. |
-
----
-
-## 🛠️ Technical Skill Set
-
-- **Mobile Development:** Native Android (Java), Flutter (Dart)
-- **Hardware Integration:** Zebra RFID SDK, Bixolon SDK, Google ML Kit, CameraX API
-- **Architecture & DB:** MVVM, Dagger 2, GreenDAO ORM, SQLite, MySQL
-- **Web & Backend:** Spring Boot, Java EE, Angular 18, TypeScript
 
 ---
 
