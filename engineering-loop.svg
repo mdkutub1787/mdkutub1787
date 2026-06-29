@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title description">
+  <title id="title">Engineering workflow</title>
+  <desc id="description">An animated loop from understanding a business problem through designing, building, and improving the product.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D17" />
+      <stop offset="1" stop-color="#101929" />
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39D9FF" />
+      <stop offset="0.5" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#F7A41D" />
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A8B7CA" stroke-opacity="0.04" />
+    </pattern>
+  </defs>
+
+  <style>
+    .sans { font-family: Inter, "Segoe UI", Arial, sans-serif; }
+    .flow-line {
+      stroke-dasharray: 7 13;
+      animation: flow 2.8s linear infinite;
+    }
+    .node-ring {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pulse 3.2s ease-in-out infinite;
+    }
+    .delay-1 { animation-delay: 0.8s; }
+    .delay-2 { animation-delay: 1.6s; }
+    .delay-3 { animation-delay: 2.4s; }
+    .number {
+      animation: brighten 3.2s ease-in-out infinite;
+    }
+    @keyframes flow {
+      to { stroke-dashoffset: -40; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.38; transform: scale(0.94); }
+      50% { opacity: 1; transform: scale(1.06); }
+    }
+    @keyframes brighten {
+      0%, 100% { opacity: 0.62; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; }
+    }
+  </style>
+
+  <rect width="1200" height="250" rx="24" fill="url(#background)" />
+  <rect x="1" y="1" width="1198" height="248" rx="23" fill="none" stroke="#29374D" />
+  <rect width="1200" height="250" rx="24" fill="url(#grid)" />
+
+  <g class="sans">
+    <text x="600" y="42" text-anchor="middle" fill="#DCE6F3" font-size="14" font-weight="800" letter-spacing="3.5">HOW I TURN COMPLEXITY INTO SOFTWARE</text>
+    <text x="600" y="65" text-anchor="middle" fill="#6F839D" font-size="12">A repeatable engineering loop, not a one-off delivery</text>
+  </g>
+
+  <path d="M174 130 C265 88 330 88 420 130 S574 172 667 130 822 88 922 130" fill="none" stroke="#24334A" stroke-width="3" />
+  <path d="M174 130 C265 88 330 88 420 130 S574 172 667 130 822 88 922 130" fill="none" stroke="url(#flow)" stroke-width="2" class="flow-line" />
+
+  <g filter="url(#glow)">
+    <circle r="5" fill="#39D9FF">
+      <animateMotion path="M174 130 C265 88 330 88 420 130 S574 172 667 130 822 88 922 130" dur="4.8s" repeatCount="indefinite" />
+    </circle>
+    <circle r="4" fill="#F7A41D">
+      <animateMotion path="M174 130 C265 88 330 88 420 130 S574 172 667 130 822 88 922 130" dur="4.8s" begin="-2.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g class="sans" text-anchor="middle">
+    <g transform="translate(174 130)">
+      <circle r="37" fill="#0A1D28" stroke="#2A7891" stroke-width="1.5" class="node-ring" />
+      <circle r="27" fill="#102B38" />
+      <text y="7" fill="#62E4FF" font-size="18" font-weight="900" class="number">01</text>
+      <text y="66" fill="#D8E2EF" font-size="13" font-weight="800" letter-spacing="1.6">DISCOVER</text>
+      <text y="86" fill="#71859D" font-size="11">Business reality</text>
+    </g>
+
+    <g transform="translate(420 130)">
+      <circle r="37" fill="#18152A" stroke="#59459A" stroke-width="1.5" class="node-ring delay-1" />
+      <circle r="27" fill="#211B3C" />
+      <text y="7" fill="#BCA8FF" font-size="18" font-weight="900" class="number delay-1">02</text>
+      <text y="66" fill="#D8E2EF" font-size="13" font-weight="800" letter-spacing="1.6">DESIGN</text>
+      <text y="86" fill="#71859D" font-size="11">System architecture</text>
+    </g>
+
+    <g transform="translate(667 130)">
+      <circle r="37" fill="#231A0C" stroke="#7D5418" stroke-width="1.5" class="node-ring delay-2" />
+      <circle r="27" fill="#30240F" />
+      <text y="7" fill="#FFC45C" font-size="18" font-weight="900" class="number delay-2">03</text>
+      <text y="66" fill="#D8E2EF" font-size="13" font-weight="800" letter-spacing="1.6">BUILD</text>
+      <text y="86" fill="#71859D" font-size="11">Reliable execution</text>
+    </g>
+
+    <g transform="translate(922 130)">
+      <circle r="37" fill="#0C211A" stroke="#2B7D62" stroke-width="1.5" class="node-ring delay-3" />
+      <circle r="27" fill="#102E24" />
+      <text y="7" fill="#62E6B0" font-size="18" font-weight="900" class="number delay-3">04</text>
+      <text y="66" fill="#D8E2EF" font-size="13" font-weight="800" letter-spacing="1.6">IMPROVE</text>
+      <text y="86" fill="#71859D" font-size="11">Measure and refine</text>
+    </g>
+  </g>
+
+  <path d="M959 130 C1065 130 1070 227 600 227 130 227 122 130 137 130" fill="none" stroke="#33445D" stroke-width="1.3" stroke-dasharray="5 9" class="flow-line" opacity="0.8" />
+  <path d="M137 130 l12 -7 v14 z" fill="#39D9FF" opacity="0.7" />
+  <text x="600" y="244" text-anchor="middle" fill="#50647E" font-size="10" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="2">FEEDBACK CLOSES THE LOOP</text>
+</svg>
