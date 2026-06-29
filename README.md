@@ -1,35 +1,74 @@
-![logo](https://github.com/mdkutub1787/mdkutub1787/blob/main/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/mdkutub1787/mdkutub1787/blob/main/github-contribution-grid-snake-dark.svg)
 
-<h1 align="center">Hi 👋, I'm Md Kutub Uddin</h1>
-<h4 align="center">Programming Lover and Learner</h4>
+<h1 align="center">Hi 👋, I'm Md. Kutub Uddin</h1>
+<h3 align="center">Enterprise Mobile Application Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkutub1787&label=Profile%20views&color=0e75b6&style=flat" alt="mdkutub1787" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mdkutub1787&label=Profile%20views&color=0e75b6&style=flat" alt="mdkutub1787" /> 
+</p>
 
-<img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwZzZid3Vnd3Vnd3Vnd3Vnd3Vnd3Vnd3Vnd3Vnd3Vnd3Vnd/coding.gif" alt="coding" align="right" width="280px" height="180px">
 
-- 🌱 I’m currently learning **Under IsDB-BISEW Scholarship Project**
+An analytical and result-driven Mobile Application Developer with **1.5+ years of professional experience** specializing in **Native Android (Java)** and **Cross-Platform (Flutter)** architectures. Proven expertise in engineering complex, large-scale Industrial ERP, Supply Chain, and HRM systems with specialized proficiency in Hardware Interfacing.
 
-- 🔭 I’m currently learnnig **"Web & Mobile App Development" in (CCSL) Center for Computer Studies Ltd.**
+---
 
-- 📫 Reach me **mdkutub150@gmail.com**
+### 💼 Current Professional Status
+- 🔭 Currently working as: **Jr. Apps Developer** at **Logic Software Ltd.**
+- 🚀 Live Production App: [Platform HRM on Google Play Store](https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm)
+- 🎓 Background: Strong analytical foundation with a degree in **Economics** (Alumnus of IsDB-BISEW IT Scholarship Programme).
+- 📄 Portfolio Website: [mdkutub.com](http://www.mdkutub.com)
 
-- 📄 Know about my experiences [mdkutub.com](www.mdkutub.com)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.facebook.com/kutubuddin150?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md.Kutub Uddin" height="30" width="40" /></a>   <a href="https://www.linkedin.com/in/md-kutub-uddin-5932042b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md.Kutub Uddin" height="30" width="40" /></a> 
+### 🛠️ Tech Stack & Tools
 
-# Languages and Tools:
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="40" height="35"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="35"/> </a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p> 
-<p <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
- 
- 
- </p>
+🚀 **Mobile Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
+</p>
 
-<!-- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p> -->
+🌐 **Backend & Web Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="springboot" />
+  <img src="https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+</p>
 
+💾 **Databases & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" />
+  <img src="https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkutub1787&show_icons=true&locale=en&layout=compact" alt="Md.Kutub Uddin " />
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdkutub1787&show_icons=true&locale=en" alt="Md.Kutub Uddin" /></p>
+---
+
+### 🎯 Key Engineering Domain & Expertise
+* **Hardware Integration:** Zebra RFID SDK (Fabric roll tracking), Bixolon Thermal Printer SDK, Google ML Kit, CameraX API, Barcode/QR Code Scanning.
+* **Architecture & Performance:** MVVM Architecture, Dependency Injection (Dagger 2), GreenDAO ORM, Local Data Synchronization.
+* **Methodology:** Agile Sprint Adaptation and Collaborative Team Workflows.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkutub1787&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdkutub1787&show_icons=true&locale=en&theme=radical" alt="Kutub's GitHub stats" height="150" />
+</p>
+
+---
+
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-kutub-uddin-967972310/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin" /></a> &nbsp;
+  <a href="https://www.facebook.com/kutubuddin150?mibextid=ZbWKwL" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook" /></a> &nbsp;
+  <a href="mailto:mdkutub150@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="email" /></a>
+</p>
+
+_Feel free to explore my repositories or reach out for collaboration!_
