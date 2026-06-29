@@ -1,5 +1,11 @@
 <div align="center">
 
+  <img
+    src="./assets/profile-hero.svg"
+    width="100%"
+    alt="Md. Kutub Uddin — Mobile & Enterprise Application Developer Command Center"
+  />
+
   <p>
     <a href="https://github.com/mdkutub1787">
       <img src="https://img.shields.io/badge/GitHub-mdkutub1787-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
@@ -17,21 +23,19 @@
 
 ## About me
 
-An analytical and result-driven **Enterprise Mobile Application Developer** with **1.5+ years of professional experience** specializing in **Native Android (Java)** and **Cross-Platform (Flutter)** architectures. Proven expertise in engineering complex, large-scale Industrial ERP, Supply Chain, and HRM systems with specialized proficiency in Hardware Interfacing. 
+<img
+  src="./assets/about-me.svg"
+  width="100%"
+  alt="Animated profile card: Md. Kutub Uddin"
+/>
 
-Possesses a strong academic background in **Economics**, enabling a seamless understanding of complex business logic, corporate workflows, and data-heavy analytics.
+An analytical and result-driven **Enterprise Mobile Application Developer** with **1.5+ years of professional experience** specializing in **Native Android (Java)** and **Cross-Platform (Flutter)** architectures. Proven expertise in engineering complex, large-scale Industrial ERP, Supply Chain, and HRM systems with specialized proficiency in Hardware Interfacing.
 
-- 💼 Working as **Jr. Apps Developer** at **Logic Software Ltd.**
+- 💼 Working at **Logic Software Ltd.** as a **Jr. Apps Developer**
 - 🧩 Building **Industrial Mobile ERPs, Smart Production Tracking, and HRM systems**
-- ⚡ Focused on **Hardware Interfacing, Offline Data Persistence, and API Optimizations**
+- ⚡ Focused on **Hardware Interfacing (Zebra RFID, Bixolon Printers), Offline Persistence, and API Optimizations**
 - 🌱 Continuously scaling across the **Android Native, Flutter, and Full-Stack Java Ecosystems**
 - 📍 Based in **Dhaka, Bangladesh**
-
-## Key Engineering Domain & Expertise
-
-* **Hardware Integration:** Zebra RFID SDK (Fabric roll tracking), Bixolon Thermal Printer SDK, Google ML Kit, CameraX API, Barcode/QR Code Scanning.
-* **Architecture & Performance:** MVVM Architecture, Dependency Injection (Dagger 2), GreenDAO ORM, Local Data Synchronization.
-* **Methodology:** Agile Sprint Adaptation and Collaborative Team Workflows.
 
 ## What I work with
 
@@ -52,7 +56,7 @@ Possesses a strong academic background in **Economics**, enabling a seamless und
 
 </div>
 
-## Featured Work
+## Selected Work
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm" target="_blank">
@@ -62,19 +66,12 @@ Possesses a strong academic background in **Economics**, enabling a seamless und
       alt="Platform HRM Production App"
     />
   </a>
-  <a href="https://github.com/mdkutub1787">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mdkutub1787&repo=mdkutub1787&theme=github_dark&hide_border=true&title_color=3DDC84&icon_color=3DDC84"
-      width="49%"
-      alt="Enterprise Ecosystem"
-    />
-  </a>
 </p>
 
-> 💡 **Core Projects in Production & Development:**
-> * **Platform SmartTrack (Industrial ERP):** Designed production tracking for textile mills integrating Zebra RFID SDK & Bixolon SDK.
-> * **Platform HRM (Live App):** Cross-platform HRM with asynchronous rendering logic and real-time FCM payroll notifications.
-> * **General Insurance Management System:** Full Stack secure ecosystem built from scratch using Spring Boot & Angular 18.
+> 💡 **Core Projects & Production Footprints:**
+> * **Platform SmartTrack (Industrial ERP):** Tailored for textile mills integrating Zebra RFID SDK & Bixolon Printer SDK.
+> * **Platform HRM (Live App):** Multi-platform HRM app with async logic rendering and real-time FCM notifications.
+> * **General Insurance Management System:** Full Stack enterprise ecosystem built with Spring Boot & Angular 18.
 
 ## GitHub Insights
 
@@ -109,7 +106,7 @@ Possesses a strong academic background in **Economics**, enabling a seamless und
 
 ## Let's build something robust
 
-I am highly interested in complex industrial system workflows, enterprise application architecture, hardware-software integrations, and scalable business automations.
+I am highly interested in practical collaborations involving complex industrial system workflows, enterprise application architecture, hardware-software integrations, and scalable business automations.
 
 <p align="center">
   <a href="mailto:mdkutub150@gmail.com">
