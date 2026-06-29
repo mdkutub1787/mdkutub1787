@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" fill="none">
+  <rect width="1000" height="240" rx="20" fill="#080D17" stroke="#29374D" />
+  <path d="M150 120 C300 70 400 70 500 120 S700 170 850 120" stroke="#33445D" stroke-width="3" fill="none" />
+  <g text-anchor="middle" font-family="sans-serif">
+    <g transform="translate(150, 120)"><circle r="35" fill="#0A1D28" stroke="#39D9FF" stroke-width="2" /><text y="7" fill="#62E4FF" font-size="16" font-weight="900">01</text><text y="60" fill="#D8E2EF" font-size="12" font-weight="800">DISCOVER</text></g>
+    <g transform="translate(380, 120)"><circle r="35" fill="#18152A" stroke="#8B5CF6" stroke-width="2" /><text y="7" fill="#BCA8FF" font-size="16" font-weight="900">02</text><text y="60" fill="#D8E2EF" font-size="12" font-weight="800">DESIGN</text></g>
+    <g transform="translate(620, 120)"><circle r="35" fill="#231A0C" stroke="#F7A41D" stroke-width="2" /><text y="7" fill="#FFC45C" font-size="16" font-weight="900">03</text><text y="60" fill="#D8E2EF" font-size="12" font-weight="800">BUILD</text></g>
+    <g transform="translate(850, 120)"><circle r="35" fill="#0C211A" stroke="#37E69A" stroke-width="2" /><text y="7" fill="#62E6B0" font-size="16" font-weight="900">04</text><text y="60" fill="#D8E2EF" font-size="12" font-weight="800">IMPROVE</text></g>
+  </g>
+</svg>
