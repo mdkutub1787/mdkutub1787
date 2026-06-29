@@ -1,7 +1,9 @@
-![Snake Animation](https://github.com/mdkutub1787/mdkutub1787/blob/main/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdkutub1787/mdkutub1787/main/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Md. Kutub Uddin</h1>
-<h3 align="center">Enterprise Mobile Application Developer</h3>
+<h3 align="center">Mobile & Enterprise Application Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mdkutub1787&label=Profile%20views&color=0e75b6&style=flat" alt="mdkutub1787" /> 
