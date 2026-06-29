@@ -1,179 +1,119 @@
 <div align="center">
 
-# Abdullah A. Emon
+  <img
+    src="./assets/profile-hero.svg"
+    width="100%"
+    alt="Md. Kutub Uddin — Mobile & Enterprise Application Developer Command Center"
+  />
 
-**Full-Stack Developer · ERP-focused Engineer**
-
-Turning complex business workflows into reliable digital products.
-
-<p>
-  <a href="https://github.com/mdkutub1787">
-    <img src="https://img.shields.io/badge/GitHub-mdkutub1787-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-kutub-uddin-967972310/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:mdkutub150@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdkutub150@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mdkutub1787&label=Profile%20views&color=39D9FF&style=for-the-badge" alt="Profile views" />
-</p>
+  <p>
+    <a href="https://github.com/mdkutub1787">
+      <img src="https://img.shields.io/badge/GitHub-mdkutub1787-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    </a>
+    <a href="https://www.linkedin.com/in/md-kutub-uddin-967972310/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+    </a>
+    <a href="mailto:mdkutub150@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=mdkutub1787&label=Profile%20views&color=3DDC84&style=for-the-badge" alt="Profile views" />
+  </p>
 
 </div>
 
----
+## About me
 
-## 👋 About Me
+<img
+  src="./assets/about-me.svg"
+  width="100%"
+  alt="Animated profile card: Md. Kutub Uddin"
+/>
 
-I am a **full-stack developer** focused on building business requirements into reliable, maintainable web applications. My primary interests are **ERP systems**, **backend architectures**, **responsive interfaces**, and **real-time application features**.
+An analytical and result-driven **Enterprise Mobile Application Developer** with **1.5+ years of professional experience** specializing in **Native Android (Java)** and **Cross-Platform (Flutter)** architectures. Proven expertise in engineering complex, large-scale Industrial ERP, Supply Chain, and HRM systems with specialized proficiency in Hardware Interfacing.
 
-- 💼 **Current Role:** Full-Stack Product Engineering at **Logic Software Ltd.**
-- 📍 **Location:** Dhaka, Bangladesh (UTC+6)
-- ✅ **Status:** Available to collaborate
-- 🎯 **Expertise:** Enterprise Resource Planning, REST APIs, Real-time Applications
+- 💼 Working at **Logic Software Ltd.** as a **Jr. Apps Developer**
+- 🧩 Building **Industrial Mobile ERPs, Smart Production Tracking, and HRM systems**
+- ⚡ Focused on **Hardware Interfacing (Zebra RFID, Bixolon Printers), Offline Persistence, and API Optimizations**
+- 🌱 Continuously scaling across the **Android Native, Flutter, and Full-Stack Java Ecosystems**
+- 📍 Based in **Dhaka, Bangladesh**
 
----
+## What I work with
 
-## 🏢 Core Focus Areas
+<div align="center">
 
-### ERP Systems
-- Designing and building scalable enterprise resource planning solutions
-- Complex business workflow automation
-- Multi-module enterprise applications
+  <img
+    src="https://skillicons.dev/icons?i=java,android,flutter,dart,spring,angular,ts,js,mysql,git&perline=10"
+    alt="Java, Android, Flutter, Dart, Spring Boot, Angular, TypeScript, JavaScript, MySQL, Git"
+  />
 
-### REST APIs
-- Robust, well-documented backend systems
-- API design and optimization
-- Database architecture and optimization
+  <br />
+  <br />
 
-### Real-Time Applications
-- Creating responsive, real-time user experiences
-- WebSocket implementations
-- Real-time data synchronization
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/SQLite-074D5B?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/GreenDAO%20ORM-3DDC84?style=flat-square&logo=android&logoColor=white" alt="GreenDAO" />
+  <img src="https://img.shields.io/badge/REST%20API-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" alt="REST APIs" />
 
----
+</div>
 
-## 🛠️ Tech Stack
-
-**Backend Technologies:**
-- PHP, Laravel
-- Node.js, Express
-- Java, Spring Boot
-- Python
-
-**Frontend Technologies:**
-- JavaScript, Vue.js, React
-- TypeScript
-- Angular
-
-**Databases & Storage:**
-- MySQL, PostgreSQL
-- SQLite, MongoDB
-- Redis
-
-**Tools & Practices:**
-- RESTful API Design
-- WebSocket Integration
-- Docker & DevOps
-- Git & CI/CD Pipelines
-
----
-
-## 🔄 Engineering Approach
-
-### How I Turn Complexity Into Software
-
-I follow a **repeatable engineering loop**, not a one-off delivery:
-
-1. **DISCOVER** 🔍
-   - Understand the business reality
-   - Analyze requirements deeply
-
-2. **DESIGN** 🎨
-   - System architecture planning
-   - Database schema design
-   - API contract definition
-
-3. **BUILD** 🏗️
-   - Reliable code execution
-   - Performance optimization
-   - Clean implementation
-
-4. **IMPROVE** 📊
-   - Measure results
-   - Gather feedback
-   - Continuous refinement
-
-**→ Feedback closes the loop for continuous improvement**
-
----
-
-## 💡 Engineering Mindset
-
-- ✅ **Reliable Systems** - Building solutions that work consistently
-- ✅ **Scalable Architecture** - Designing for growth
-- ✅ **Clean Code** - Maintainable and well-documented
-- ✅ **Performance First** - Optimized for speed and efficiency
-- ✅ **Continuous Learning** - Always improving across tech ecosystems
-- ✅ **Business Focused** - Understanding domain requirements first
-
----
-
-## 🚀 What I Build
-
-- **🏭 Enterprise Resource Planning (ERP)** systems
-- **📡 Scalable REST APIs** for business applications
-- **🎯 Business Workflow Automation** solutions
-- **🔄 Real-time Application Features** for better UX
-- **📊 Data-driven Backend Systems** with performance optimization
-- **🔐 Secure Authentication & Authorization** systems
-
----
-
-## 🎓 Key Principles
-
-> **Engineering business complexity into software** requires understanding the business first, designing the system thoughtfully, building it reliably, and continuously improving based on feedback.
-
-**I believe in writing code that:**
-- ✓ **Works** - Solves the actual problem
-- ✓ **Scales** - Handles growth gracefully
-- ✓ **Lasts** - Remains maintainable long-term
-- ✓ **Performs** - Optimized for speed and efficiency
-
----
-
-## 📈 GitHub Stats
+## Selected Work
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdkutub1787&show_icons=true&theme=github_dark&hide_border=true&title_color=39D9FF&icon_color=39D9FF" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkutub1787&layout=compact&theme=github_dark&hide_border=true&title_color=39D9FF" width="49%" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Let's Collaborate
-
-I'm highly interested in practical collaborations involving:
-- Complex enterprise system architectures
-- ERP module development
-- Scalable API design
-- Real-time application features
-- Business automation workflows
-
-**Ready to turn your business complexity into robust software!**
-
-<p align="center">
-  <a href="mailto:mdkutub150@gmail.com">
-    <img src="https://img.shields.io/badge/Start%20a%20Conversation-mdkutub150@gmail.com-39D9FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mdkutub1787&repo=mdkutub1787&theme=github_dark&hide_border=true&title_color=3DDC84&icon_color=3DDC84"
+      width="49%"
+      alt="Platform HRM Production App"
+    />
   </a>
 </p>
 
----
+> 💡 **Core Projects & Production Footprints:**
+> * **Platform SmartTrack (Industrial ERP):** Tailored for textile mills integrating Zebra RFID SDK & Bixolon Printer SDK.
+> * **Platform HRM (Live App):** Multi-platform HRM app with async logic rendering and real-time FCM notifications.
+> * **General Insurance Management System:** Full Stack enterprise ecosystem built with Spring Boot & Angular 18.
+
+## GitHub Insights
 
 <p align="center">
-  <sub>🔧 Architecting efficiency. 🔗 Interfacing logic with reality. 🚀 Building for scale.</sub>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdkutub1787&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true&title_color=3DDC84&icon_color=3DDC84"
+    width="49%"
+    alt="Kutub's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkutub1787&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=3DDC84"
+    width="49%"
+    alt="Kutub's most-used languages"
+  />
 </p>
 
 <p align="center">
-  <strong>Status: 🟢 Available to collaborate | Timezone: UTC+6</strong>
+  <img
+    src="https://streak-stats.demolab.com?user=mdkutub1787&theme=github-dark&hide_border=true&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84"
+    width="70%"
+    alt="Kutub's GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mdkutub1787/mdkutub1787/main/github-contribution-grid-snake-dark.svg" 
+    width="100%" 
+    alt="Snake Animation" 
+  />
+</p>
+
+## Let's build something robust
+
+I am highly interested in practical collaborations involving complex industrial system workflows, enterprise application architecture, hardware-software integrations, and scalable business automations.
+
+<p align="center">
+  <a href="mailto:mdkutub150@gmail.com">
+    <img src="https://img.shields.io/badge/Start%20a%20conversation-mdkutub150%40gmail.com-3DDC84?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md. Kutub Uddin" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Architecting efficiency. Interfacing logic with reality.</sub>
 </p>
