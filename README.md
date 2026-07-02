@@ -74,7 +74,7 @@ Analytical and results-driven **Mobile Application Developer** with **1.5+ years
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Platform SmartTrack** | Java, Dagger 2, RFID, Bixolon, Flutter | Lead Developer for enterprise production tracking. Includes **Platform Approvals** for streamlined corporate workflows. [<img src="https://img.shields.io/badge/App_Store-Get_it_on-black?logo=apple&style=flat-square" alt="App Store" />](https://apps.apple.com/gb/app/platform-approvals/id6759209301) |
+| **Platform SmartTrack** | Java, Dagger 2, RFID, Bixolon, Flutter | Enterprise production tracking application. Includes **Platform Approvals** for streamlined corporate workflows. [<img src="https://img.shields.io/badge/App_Store-Get_it_on-black?logo=apple&style=flat-square" alt="App Store" />](https://apps.apple.com/gb/app/platform-approvals/id6759209301) |
 | **Platform HRM** | Flutter, REST APIs, FCM | Developed a cross-platform HRM app featuring attendance tracking, hierarchical management, and real-time notifications. [<img src="https://img.shields.io/badge/Google_Play-Get_it_on-green?logo=googleplay&style=flat-square" alt="Play Store" />](https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm) [<img src="https://img.shields.io/badge/App_Store-Get_it_on-black?logo=apple&style=flat-square" alt="App Store" />](https://apps.apple.com/gb/app/platform-hrm/id6771622206) |
 | **Insurance Ecosystem** | Spring Boot, Angular 18 | Built a secure insurance management system supporting policy lifecycle, premium tracking, and automated billing. |
 | **Daily Finance** | Flutter, SQLite, Encryption | Personal finance tracker featuring expense analytics, local data encryption, and dynamic budgeting. [<img src="https://img.shields.io/badge/Google_Play-Get_it_on-green?logo=googleplay&style=flat-square" alt="Play Store" />](https://play.google.com/store/apps/details?id=com.probeshpath.dailyfinance) |
@@ -86,6 +86,30 @@ Analytical and results-driven **Mobile Application Developer** with **1.5+ years
 - **Analytical Thinking:** Strong analytical mind with a background in Economics, enabling understanding of complex business logic.
 - **Collaboration:** Excellent team collaboration and agile sprint adaptation capability.
 - **Learning Agility:** Rapid learning ability for complex enterprise system workflows.
+
+---
+
+## 🌐 Languages & Interests
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗣️ Languages</h3>
+      <ul>
+        <li><b>Bangla:</b> Native proficiency</li>
+        <li><b>English:</b> Working proficiency (Technical docs, professional communication)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Interests</h3>
+      <ul>
+        <li>Exploring Emerging Mobile Architectures</li>
+        <li>UI/UX Design Trends</li>
+        <li>Contributing to Open-Source Projects</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
