@@ -24,18 +24,25 @@
 
 <img src="./about-me.svg" width="100%" alt="About Me Section" />
 
-Analytical and result-driven **Enterprise Mobile Application Developer** with **1.5+ years** of professional experience. I specialize in engineering complex, large-scale Industrial ERP, Supply Chain, and HRM systems with specialized proficiency in Hardware Interfacing (Zebra RFID, Bixolon Thermal Printers). My background in **Economics** enables a seamless understanding of complex business logic and data-heavy analytics.
+Analytical and results-driven **Mobile Application Developer** with **1.5+ years** of experience in **Native Android (Java)** and **Flutter** development. I specialize in designing and engineering enterprise-grade Industrial ERP, Supply Chain, and HRM systems. My background in **Economics** enables a seamless understanding of complex business logic, corporate workflows, and data-heavy analytics.
 
 - 💼 Currently working at **Logic Software Ltd.** as a **Jr. Apps Developer**.
 - 🧩 Architecting scalable Mobile ERP and Smart Production Tracking apps.
-- ⚡ Expert in **Android Native (Java)**, **Flutter (Dart)**, and **Offline-first architectures**.
-- 🛠️ Specialized in hardware integrations (RFID, Thermal Printing) and high-speed scanning modules.
+- ⚡ Expert in **MVVM Architecture**, **Dependency Injection (Dagger 2)**, and **Clean Architecture**.
+- 🛠️ Specialized in hardware integrations (Zebra RFID, Bixolon Thermal Printing) and advanced scanning (Google ML Kit, CameraX).
 
 ---
 
-## ⚙️ Engineering Approach
+## 💼 Experience
 
-<img src="./engineering-loop.svg" width="100%" alt="Engineering Workflow" />
+### **Jr. Apps Developer** | Logic Software Ltd.
+*Jan 2025 – Present*
+
+- **Industrial ERP & Supply Chain Solutions:** Architect and scale enterprise-level Mobile ERP and Smart Production Tracking apps tailored for the garment and textile industries.
+- **Hardware & SDK Integration:** Successfully integrated **Zebra RFID SDK** for real-time fabric roll tracking and **Bixolon SDK** for thermal label printing.
+- **Advanced Scanning Modules:** Developed high-speed barcode and QR code scanning modules using **Google ML Kit** and **CameraX API**, eliminating manual logging and cutting factory entry latency.
+- **Data Optimization:** Optimized application performance and memory footprint using **MVVM**, **Dagger 2**, and **GreenDAO ORM** for robust offline data persistence.
+- **In-App Reporting:** Engineered dynamic PDF invoice and production report generation using the **iTextG library** for direct industrial printing.
 
 ---
 
@@ -44,8 +51,8 @@ Analytical and result-driven **Enterprise Mobile Application Developer** with **
 <div align="center">
 
   <img
-    src="https://skillicons.dev/icons?i=java,android,flutter,dart,spring,angular,ts,js,mysql,sqlite,git,github,firebase,postman&perline=10"
-    alt="Java, Android, Flutter, Dart, Spring Boot, Angular, TypeScript, JavaScript, MySQL, SQLite, Git, GitHub, Firebase, Postman"
+    src="https://skillicons.dev/icons?i=java,android,flutter,dart,spring,angular,ts,js,mysql,sqlite,git,github,firebase,postman,idea&perline=10"
+    alt="Java, Android, Flutter, Dart, Spring Boot, Angular, TypeScript, JavaScript, MySQL, SQLite, Git, GitHub, Firebase, Postman, IntelliJ IDEA"
   />
 
   <br />
@@ -53,9 +60,11 @@ Analytical and result-driven **Enterprise Mobile Application Developer** with **
 
   <img src="https://img.shields.io/badge/RFID-Zebra%20SDK-blue?style=flat-square&logo=icloud&logoColor=white" alt="RFID" />
   <img src="https://img.shields.io/badge/Thermal%20Printing-Bixolon-red?style=flat-square&logo=printables&logoColor=white" alt="Thermal Printing" />
+  <img src="https://img.shields.io/badge/Google%20ML%20Kit-Scanning-green?style=flat-square&logo=google&logoColor=white" alt="ML Kit" />
+  <img src="https://img.shields.io/badge/CameraX-API-lightgrey?style=flat-square&logo=android&logoColor=white" alt="CameraX" />
   <img src="https://img.shields.io/badge/GreenDAO%20ORM-3DDC84?style=flat-square&logo=android&logoColor=white" alt="GreenDAO" />
   <img src="https://img.shields.io/badge/Dependency%20Injection-Dagger%202-orange?style=flat-square&logo=dagster&logoColor=white" alt="Dagger 2" />
-  <img src="https://img.shields.io/badge/Architecture-MVVM-lightgrey?style=flat-square" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM%20%26%20Clean-lightgrey?style=flat-square" alt="MVVM" />
 
 </div>
 
@@ -65,10 +74,18 @@ Analytical and result-driven **Enterprise Mobile Application Developer** with **
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Platform SmartTrack** | Java, Dagger 2, RFID, Bixolon | Industrial tracking for textile mills with real-time inventory and automated printing. |
-| **Platform HRM** | Flutter, REST APIs, FCM | Cross-platform HRM app with complex organizational logic. [Play Store](https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm) |
-| **Insurance Ecosystem** | Spring Boot, Angular 18 | Secure enterprise insurance system with policy lifecycle and automated billing. |
-| **Daily Finance** | Flutter, SQLite, Encryption | Financial tracker with monthly budget parsing and category analytics. |
+| **Platform SmartTrack** | Java, Dagger 2, RFID, Bixolon | Lead Developer for enterprise production tracking. Implemented knitting, finishing, QC, and RFID-based fabric tracking. |
+| **Platform HRM** | Flutter, REST APIs, FCM | Developed a cross-platform HRM app featuring attendance tracking, hierarchical management, and real-time notifications. [<img src="https://img.shields.io/badge/Google_Play-Get_it_on-green?logo=googleplay&style=flat-square" alt="Play Store" />](https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm) |
+| **Insurance Ecosystem** | Spring Boot, Angular 18 | Built a secure insurance management system supporting policy lifecycle, premium tracking, and automated billing. |
+| **Daily Finance** | Flutter, SQLite, Encryption | Personal finance tracker featuring expense analytics, local data encryption, and dynamic budgeting. [<img src="https://img.shields.io/badge/Google_Play-Get_it_on-green?logo=googleplay&style=flat-square" alt="Play Store" />](https://play.google.com/store/apps/details?id=com.probeshpath.dailyfinance) |
+
+---
+
+## 🧠 Key Competencies
+
+- **Analytical Thinking:** Strong analytical mind with a background in Economics, enabling understanding of complex business logic.
+- **Collaboration:** Excellent team collaboration and agile sprint adaptation capability.
+- **Learning Agility:** Rapid learning ability for complex enterprise system workflows.
 
 ---
 
@@ -76,7 +93,7 @@ Analytical and result-driven **Enterprise Mobile Application Developer** with **
 
 - **MSS in Economics** | Dhaka College (Post Graduated 2023)
 - **BSS in Economics** | Dhaka College (Graduated 2021)
-- **Full Stack Java Development** | IsDB-BISEW IT Scholarship (9-Month Diploma)
+- **Full Stack Java Development** | IsDB-BISEW IT Scholarship (Professional Diploma)
 
 ---
 
