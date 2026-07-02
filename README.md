@@ -74,8 +74,8 @@ Analytical and results-driven **Mobile Application Developer** with **1.5+ years
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Platform SmartTrack** | Java, Dagger 2, RFID, Bixolon | Lead Developer for enterprise production tracking. Implemented knitting, finishing, QC, and RFID-based fabric tracking. |
-| **Platform HRM** | Flutter, REST APIs, FCM | Developed a cross-platform HRM app featuring attendance tracking, hierarchical management, and real-time notifications. [<img src="https://img.shields.io/badge/Google_Play-Get_it_on-green?logo=googleplay&style=flat-square" alt="Play Store" />](https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm) |
+| **Platform SmartTrack** | Java, Dagger 2, RFID, Bixolon, Flutter | Lead Developer for enterprise production tracking. Includes **Platform Approvals** for streamlined corporate workflows. [<img src="https://img.shields.io/badge/App_Store-Get_it_on-black?logo=apple&style=flat-square" alt="App Store" />](https://apps.apple.com/gb/app/platform-approvals/id6759209301) |
+| **Platform HRM** | Flutter, REST APIs, FCM | Developed a cross-platform HRM app featuring attendance tracking, hierarchical management, and real-time notifications. [<img src="https://img.shields.io/badge/Google_Play-Get_it_on-green?logo=googleplay&style=flat-square" alt="Play Store" />](https://play.google.com/store/apps/details?id=com.logicsoftbd.hrm) [<img src="https://img.shields.io/badge/App_Store-Get_it_on-black?logo=apple&style=flat-square" alt="App Store" />](https://apps.apple.com/gb/app/platform-hrm/id6771622206) |
 | **Insurance Ecosystem** | Spring Boot, Angular 18 | Built a secure insurance management system supporting policy lifecycle, premium tracking, and automated billing. |
 | **Daily Finance** | Flutter, SQLite, Encryption | Personal finance tracker featuring expense analytics, local data encryption, and dynamic budgeting. [<img src="https://img.shields.io/badge/Google_Play-Get_it_on-green?logo=googleplay&style=flat-square" alt="Play Store" />](https://play.google.com/store/apps/details?id=com.probeshpath.dailyfinance) |
 
